@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23822f5e05a8954499e19515dfcfdf27, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  resourceNameEnum: 2
+  resourceObj: {fileID: 6905828397881214819, guid: 5f9eff918adcb2147b2bbb7b8a86a638, type: 3}
+  resourceSprite: {fileID: 21300000, guid: 8c6a799d07f5f904597fede723bf6a88, type: 3}

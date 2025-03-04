@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f63b30f7e1f55041b57fc21b7886577, type: 3}
+  m_Name: ArcherUpgrades
+  m_EditorClassIdentifier: 
+  upgradesGO:
+  - {fileID: 7089889551988674890, guid: ede68d423a5b00d4b83544e001af815d, type: 3}
+  - {fileID: 6194899193595984041, guid: 23518fb638d9d9e48b8d0d08afae6e36, type: 3}
+  - {fileID: 3665045458984580085, guid: a5ac5fc51a533704f8c4ac0fc8fa5899, type: 3}

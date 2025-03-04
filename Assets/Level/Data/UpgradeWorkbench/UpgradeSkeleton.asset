@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b21cdcb238febe4b8466332a8c98b21, type: 3}
+  m_Name: UpgradeSkeleton
+  m_EditorClassIdentifier: 
+  resourceLevels:
+  - ResourceHolders:
+    - ResourceData: {fileID: 11400000, guid: e4056a30eb884f74d87c6db04421ca51, type: 2}
+      ResourceCount: 20
+    buildObject: {fileID: 7657677230711071391, guid: ed3b658617f9f8a4a91b45e78dc79e2d, type: 3}
+    level: 0
+  - ResourceHolders:
+    - ResourceData: {fileID: 11400000, guid: e4056a30eb884f74d87c6db04421ca51, type: 2}
+      ResourceCount: 100
+    buildObject: {fileID: 7657677230711071391, guid: 9aa67edf5abce234dabba0f9606c7a7a, type: 3}
+    level: 0
+  unlockPrice:
+  - ResourceData: {fileID: 11400000, guid: cf47f2b7faadb6843aea79162b51d153, type: 2}
+    ResourceCount: 50
+  unlockLevel: 0
+  DefaultBuilding: {fileID: 7657677230711071391, guid: f728593a237df1f40b840b6be2eab0f9, type: 3}
